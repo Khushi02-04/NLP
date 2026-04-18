@@ -390,3 +390,20 @@ Multilingual-AI-System/
 - The first run may take some time because transformer models need to download.
 - Internet may be required once to download pretrained models.
 - After download, models can be reused from local cache.
+
+## 📸 Screenshots
+
+### Output 1
+![Output 1](Images/output1.png)
+
+### Output 2
+![Output 2](Images/output2.png)
+
+### Output 3
+![Output 3](Images/output3.png)
+
+### Output 4
+![Output 4](Images/output4.png)
+
+### Output 5
+![Output 5](Images/output5.png)
